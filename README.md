@@ -1,25 +1,27 @@
 # learn_docker_tech
 
-Une application web simple utilisant Flask, conteneurisée avec Docker.
+A simple web application using Flask, containerized with Docker.
 
 ## 🖥️ Description
 
-"Hello Docker" est une application web basique qui affiche "Hello Docker!" dans le navigateur. Ce projet a pour objectif de vous familiariser avec les concepts fondamentaux de Docker en conteneurisant une application Python utilisant le framework Flask.
+“Hello Docker” is a basic web application that displays ‘Hello Docker!’ in the browser. This project aims to familiarize you with the fundamental concepts of Docker by containerizing a Python application using the Flask framework.
 
-## 🚀 Prérequis
+## 🚀 Prerequisites
 
-- **Docker** installé sur votre machine.  
-  - [Installer Docker](https://docs.docker.com/get-docker/)
-- **Git** (optionnel, pour cloner le dépôt)
-- **Compte GitHub** (optionnel, pour héberger le projet)
+- **Docker** installed on your machine.  
+  - Install [Docker](https://docs.docker.com/get-docker/)
+- **Git** (optional, to clone the repository)
+- **GitHub account** (optional, to host the project)
 
-## 🔧 Installation et Utilisation
+## 🔧 Installation and Use
 
-### 1. Cloner le Dépôt
+### 1. clone repository
 
-Si vous avez un dépôt GitHub, clonez-le ; sinon, créez un nouveau répertoire et ajoutez les fichiers nécessaires.
+If you have a GitHub repository, clone it; if not, create a new directory and add the necessary files.
 
 ```bash
 git clone https://github.com/votre-utilisateur/hello-docker.git
 cd hello-docker
 ```
+
+Translated with DeepL.com (free version)
